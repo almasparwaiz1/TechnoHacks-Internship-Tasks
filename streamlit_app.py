@@ -11,8 +11,8 @@ from datetime import datetime, timedelta
 # ==========================================
 # CONFIGURATION & CONSTANTS
 # ==========================================
-VECTORIZER_PATH = r'F:\TechnoHacks Internship Tasks\tfidf_vectorizer.pkl'
-MODEL_PATH = r'F:\TechnoHacks Internship Tasks\logistic_regression_sentiment_model.pkl'
+VECTORIZER_PATH = r'tfidf_vectorizer.pkl'
+MODEL_PATH = r'logistic_regression_sentiment_model.pkl'
 
 # Aesthetic Palette (Warm Beige, Sage Green, Dark Brown)
 BG_CREAM = "#FDFBF7"
