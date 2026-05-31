@@ -1,0 +1,96 @@
+Theme,Feedback,Sentiment,Satisfaction,Readmission
+discharge,discharge instructions were very clear,1,4,1
+communication,i felt the doctor used too much medical jargon,1,5,0
+medication,i appreciated the reminders about my medicines,1,4,0
+discharge,instructions after discharge were not helpful,0,1,1
+discharge,instructions after discharge were not helpful,0,2,1
+wait_time,waiting time was too long,0,1,1
+discharge,discharge instructions were very clear,1,5,0
+discharge,instructions after discharge were not helpful,0,1,0
+medication,the pharmacy service was excellent,1,5,0
+wait_time,i was seen by the doctor quickly,1,5,0
+wait_time,i had to wait for hours before being admitted,0,1,0
+communication,doctor explained my condition clearly,1,5,0
+medication,i forgot my schedule due to unclear medication notes,0,1,0
+communication,nurses were very patient and communicative,1,5,0
+medication,i appreciated the reminders about my medicines,1,5,0
+communication,doctor explained my condition clearly,1,4,1
+discharge,discharge paperwork was easy to follow,1,5,1
+discharge,the staff rushed me during discharge,0,1,0
+communication,the staff made me feel comfortable,1,5,0
+communication,doctor explained my condition clearly,1,4,0
+wait_time,i had to wait for hours before being admitted,0,1,1
+discharge,discharge paperwork was easy to follow,1,4,0
+medication,medication instructions were confusing,0,3,1
+discharge,i felt confused about my discharge process,1,5,1
+medication,medication instructions were confusing,0,1,0
+wait_time,waiting for tests took forever,0,1,0
+wait_time,waiting for tests took forever,0,3,0
+medication,the nurse explained my prescriptions well,1,4,0
+communication,i felt the doctor used too much medical jargon,1,4,1
+medication,i appreciated the reminders about my medicines,1,4,1
+wait_time,appointments started on time,1,5,0
+discharge,i felt confused about my discharge process,1,5,0
+wait_time,appointments started on time,1,4,0
+communication,the staff made me feel comfortable,1,4,0
+wait_time,waiting time was too long,0,2,1
+discharge,discharge instructions were very clear,1,4,0
+wait_time,i had to wait for hours before being admitted,0,3,1
+wait_time,i had to wait for hours before being admitted,0,3,0
+communication,the staff made me feel comfortable,1,5,1
+communication,nurses were very patient and communicative,1,4,0
+discharge,the staff rushed me during discharge,0,3,1
+wait_time,i was seen by the doctor quickly,1,4,0
+wait_time,waiting time was too long,0,2,0
+discharge,the staff rushed me during discharge,0,2,1
+discharge,instructions after discharge were not helpful,0,2,0
+communication,i did not understand the doctors instructions,0,1,0
+medication,medication instructions were confusing,0,3,0
+medication,the pharmacy service was excellent,1,4,0
+medication,the nurse explained my prescriptions well,1,5,0
+wait_time,i was seen by the doctor quickly,1,4,1
+wait_time,i had to wait for hours before being admitted,0,2,0
+discharge,the staff rushed me during discharge,0,2,0
+discharge,instructions after discharge were not helpful,0,3,0
+medication,the pharmacy service was excellent,1,5,1
+medication,medication instructions were confusing,0,1,1
+discharge,discharge paperwork was easy to follow,1,5,0
+communication,i did not understand the doctors instructions,0,1,1
+wait_time,waiting time was too long,0,3,1
+medication,i forgot my schedule due to unclear medication notes,0,3,0
+discharge,discharge paperwork was easy to follow,1,4,1
+communication,i did not understand the doctors instructions,0,2,1
+communication,i did not understand the doctors instructions,0,3,1
+wait_time,i had to wait for hours before being admitted,0,2,1
+discharge,i felt confused about my discharge process,1,4,0
+communication,i did not understand the doctors instructions,0,2,0
+medication,the nurse explained my prescriptions well,1,4,1
+wait_time,waiting for tests took forever,0,3,1
+wait_time,waiting for tests took forever,0,2,0
+communication,i felt the doctor used too much medical jargon,1,4,0
+discharge,the staff rushed me during discharge,0,1,1
+medication,i forgot my schedule due to unclear medication notes,0,2,0
+communication,nurses were very patient and communicative,1,5,1
+wait_time,waiting time was too long,0,3,0
+medication,the nurse explained my prescriptions well,1,5,1
+medication,medication instructions were confusing,0,2,1
+medication,i forgot my schedule due to unclear medication notes,0,2,1
+discharge,the staff rushed me during discharge,0,3,0
+wait_time,waiting for tests took forever,0,1,1
+medication,the pharmacy service was excellent,1,4,1
+wait_time,i was seen by the doctor quickly,1,5,1
+medication,medication instructions were confusing,0,2,0
+medication,i forgot my schedule due to unclear medication notes,0,1,1
+wait_time,appointments started on time,1,5,1
+communication,the staff made me feel comfortable,1,4,1
+discharge,i felt confused about my discharge process,1,4,1
+communication,nurses were very patient and communicative,1,4,1
+communication,i felt the doctor used too much medical jargon,1,5,1
+communication,i did not understand the doctors instructions,0,3,0
+discharge,instructions after discharge were not helpful,0,3,1
+medication,i appreciated the reminders about my medicines,1,5,1
+wait_time,waiting for tests took forever,0,2,1
+wait_time,appointments started on time,1,4,1
+discharge,discharge instructions were very clear,1,5,1
+wait_time,waiting time was too long,0,1,0
+medication,i forgot my schedule due to unclear medication notes,0,3,1
